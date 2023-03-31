@@ -6,4 +6,4 @@ Vous pouvez aussi essayer d'utiliser la dernière version sortie: https://www.ub
 Rufus peut être utile si vous installer ubuntu sur un disque vierge, VMWare pour les machines virtuelles: https://www.vmware.com/fr/products/workstation-player.html
 Le dépot git de xibo aura peut être changé entre temps, pensez-y ! 
 J'ai utilisé pour ma part : https://github.com/xibosignage/xibo-cms/releases/download/3.1.2/xibo-docker.tar.gz
-En Deuxième partie, nous verrons comment initier un Rsync avec Crontab.
+En Deuxième partie, nous verrons comment initialiser un Rsync avec Crontab.
