@@ -7,5 +7,5 @@ Rufus peut être utile si vous installer ubuntu sur un disque vierge<br>
 VMWare pour les machines virtuelles: https://www.vmware.com/fr/products/workstation-player.html<br>
 Le dépot git de xibo aura peut être changé entre temps, pensez-y ! <br>
 J'ai utilisé pour ma part : https://github.com/xibosignage/xibo-cms/releases/download/3.1.2/xibo-docker.tar.gz<br>
-En Deuxième partie, nous verrons comment initialiser un Rsync avec Crontab.
-[![Schéma_Xibo](https://github.com/Kirua6/Installation_Xibo/Schema_xibo.drawio.png)]
+En Deuxième partie, nous verrons comment initialiser un Rsync avec Crontab.<br>
+[![Schéma_Xibo](https://github.com/Kirua6/Schema_xibo.drawio.png)]
