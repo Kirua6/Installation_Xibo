@@ -8,4 +8,4 @@ VMWare pour les machines virtuelles: https://www.vmware.com/fr/products/workstat
 Le dépot git de xibo aura peut être changé entre temps, pensez-y ! <br>
 J'ai utilisé pour ma part : https://github.com/xibosignage/xibo-cms/releases/download/3.1.2/xibo-docker.tar.gz<br>
 En Deuxième partie, nous verrons comment initialiser un Rsync avec Crontab.<br>
-![Schema_xibo.drawio.png](https://github.com/Kirua6/Installation_Xibo/Schema_xibo.drawio.png)
+![Schema_xibo.drawio.png](https://github.com/Kirua6/Installation_Xibo/blob/main/Schema_xibo.drawio.png)
